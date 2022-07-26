@@ -1,0 +1,62 @@
+I am currently working on web development like you. I learn so many things on my journey every day. I want to share with you what I learned. I hope it will be clear for you because I prepared this article for those new to programming and web development.
+This article occurs three-part.
+Part-1 → What Exactly is JavaScript/ History of Javascript / Why should I learn JavaScript
+Part-2 → Values and Variables/ Data Types / let, const and var/ Basic Operators / String and Template Literals / If-Else Statements/ Type Conversion and Coercion / Truthy and Falsy Values/ Equality Operators == vs ===/ Boolean Logic/ Logical Operators/ The Switch Statement/ Statements and Expressions/ The Conditional( Ternary) Operator.
+Part-3 →Functions and Function Types/ Arrays/ Inroduction to Objects/ Object Methods/ Iterations: For and While Loops
+
+What Exactly is JavaScript?
+We can define it as a “scripting or programming language that allows you to implement complex things on web pages.” JavaScript makes web pages more dynamic and user-friendly so that they respond to visitors’ actions. Or, to put it another way, JavaScript makes web pages interactive.
+
+
+An Overview of JavaScript History
+First of all, you have to know that JavaScript and Java are completely different languages, both in concept and design. JavaScript was invented by Brendan Eich in 1995 and became an ECMA standard in 1997. ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+
+I have summarized the history of Javascript for you below
+1994 – The NetScape web browser was launched.
+1995 – Brendan Eich invented JavaScript for NetScape. Microsoft created the Internet Explorer web browser
+1996 – The Opera web browser was launched.
+1997 – The first ECMAScript, or ES1 launched
+1998 – Mozilla Firefox was launched.ECMAScript 2 (ES2) launched with editorial changes to ES1.
+1990 – ES3 was released, allowing for regular expressions and trying to catch statements
+2000 to 2008 – The release of ECMAScript 4 (ES4) was abandoned due to differences in committee opinions. During this time, Firefox, Apple Safari, and Google Chrome web browsers were introduced. Web languages also became more advanced after HTML5 went public
+2009 – ES5 sharpened up the standards with strict mode, JSON support, and more methods for strings and arrays.Node.js launched to allow for JavaScript code execution outside the browser
+2010 – AngularJS framework was released and grew in popularity with its object-oriented and reactive programming.
+2011 – ES5.1 was released with editorial changes and was fully supported in all modern browsers.
+2013 – Electron.js framework was released to develop desktop apps with front/backend web languages. ReactJS library was released with a functional programming model.
+2014 – Vue.js framework was released and grew in popularity due to its reactive programming model.
+2015 – ES6 was released with let, const, default parameter values, and more array methods
+2016 – ES7 was released with the exponential operator and Array.prototype.includes.
+2017 – ES8 was released with string padding, new Object properties, asynchronous functions, and share memory.
+2018 – ES 2018 was released with rest and spread properties, asynchronous iteration, Promise.finally(), and additions to regular expressions.
+Also, you can use the cheatsheet that I prepared for you below.
+
+https://www.canva.com/design/DAFHJn9aZE0/PWzFuCHU1dc4WFKQ89V2Ng/view?utm_content=DAFHJn9aZE0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+Why Should I Learn JavaScript?
+
+It’s the most popular programming language.
+According to Stackoverflow.com, JavaScript is the most popular programming language used by professional developers today.
+2. It’s in your browser
+JavaScript is the default language of the internet. You need to look no further than your browser for proof since JavaScript was most likely used to develop it. Since browsers are an essential and necessary part of any user’s online experience, it’s easy to see why JavaScript is so significant.
+3. JavaScript also exists outside of the internet
+JavaScript has many roles except traditional roles. It powers smart televisions, works with the internet of things (IoT), creates native apps for iOS and Android, and builds cross-platform desktop apps, to name a few.
+4. JavaScript is ideal for new learners
+JavaScript is already installed in every web browser today, freeing novices from the hassle of setting up a development environment. Newcomers can jump in and start coding. It is one of the most accessible introductions to current coding, an added value for beginners. There is also a large online community that offers support and advice.
+Also, JavaScript is an excellent tool for beginner programmers who want to extend their skills to other languages. JavaScript supports valuable skills such as object-oriented, functional, and imperative programming styles. Novice developers can apply these skills to any new language they want to learn, such as Python, Java, or C++.
+5. JavaScript is easy to learn
+Not only is it a natural language, but JavaScript is also easy to understand. JavaScript makes things easy for beginners by turning complex details into summaries. Unlike higher-level languages, JavaScript is pretty close to natural languages.
+
+6. You can create visual effects and other eye-catching aesthetic features
+Instead of creating an ordinary web page, you can create a visually appealing web page that grabs the user’s attention and encourages interaction. JavaScript is so versatile that you can use it to easily add cool design elements like animation, interactive maps, and scrolling videos.
+7. JavaScript is not a one-trick pony,
+JavaScript empowers a programmer to handle any aspect of application design. Do you want to do front-end coding? You can do it with Angular. More interested in the backend? You can do it with Node.js!
+You can also build desktop, mobile, and web apps with Electron, React Native, and React. If machine learning interests you, JavaScript will help you there too.
+8. JavaScript also affects big data and the Cloud
+JavaScript Object Notation (JSON) is the standard for data exchange on today’s internet. NoSQL databases use JSON documents for record storage, and while JSON works well with any programming language, it does best with JavaScript.
+Also, more and more developers are turning to Node.js for building cloud-based applications, a market in high demand.
+9. It’s a valuable tool for game designers
+Games are a big industry today, and developers who know JavaScript have that extra advantage. The versatility of the language, its power, and the ability to easily create visual effects make it an excellent choice for game developers.
+10. Finally, career potential is rapidly rising
+
+With an increasing number of businesses and organizations digitizing, there is a corresponding increase in demand for developers familiar with better-known programming languages.
+Admit it; this part was easy 😁 So don’t wait to go to part 2!
